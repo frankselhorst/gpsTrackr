@@ -1,0 +1,45 @@
+/* Empty. Add your own CSS if you like */
+#map-canvas {
+	width:100%;
+	height:100%;
+	margin:auto;
+	padding:10px;
+}
+.icon.icon.ion-map {
+	margin-top:7px;
+	color:white;
+}
+.icon.ion-person-stalker {
+	margin-top:7px;
+	color:white;
+
+}
+
+.icon.icon.ion-gear-b {
+	margin-top:7px;
+	color:white;
+}
+.tabs-striped .tab-item.tab-item-active {
+	border-color:#AF2424;
+	border-width:4px 0 0 0;
+}
+.tabs {
+	background: #ff2c2c !important;
+} 
+
+.addKlant {
+	cursor: pointer;
+	background:#4a87ee;
+}
+
+.addKlant:active {
+	cursor: pointer;
+	background:#457EDF;
+}
+
+.addKlant h1 {
+	color:white;
+	font-size:18px;
+	text-align: center;
+	padding: 15px;
+}
