@@ -18,7 +18,7 @@ Stap 3 : Maak een clone van dit project op je lokale machine, open de directory 
 
 Stap 4 : Installeren van de dependencies doe je zo ( zorg dat je in de root map bent ).
   
-    $ npm install
+    $ npm install && bower install
 
 Stap 5 : De app opstarten doe je door de root map te openen in een shell en de volgende opties zijn mogelijk
 
