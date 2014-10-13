@@ -1,5 +1,4 @@
-gpsTrackr
-=========
+ [Bekijk hem live in de browser](http://loc.frankselhorst.nl/www/ "Live")
 
 Stap 1:  [download van NodeJS](http://example.com/ "NodeJS").
 
