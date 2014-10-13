@@ -20,9 +20,7 @@ Stap 4 : Installeren van de dependencies doe je zo ( zorg dat je in de root map 
   
     $ npm install && bower install
 
-Stap 5 : De app opstarten doe je door de root map te openen in een shell en de volgende opties zijn mogelijk
-
-Om het te openen in de browser:
+Stap 5 : De app opstarten in een lokale webserver kan op deze manier
 
     $ ionic serve 
 
