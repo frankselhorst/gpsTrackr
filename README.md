@@ -3,7 +3,7 @@ GPSTrackr
 
 [Bekijk hem live in de browser](http://loc.frankselhorst.nl/www/ "Live")
 
-Stap 1:  [download van NodeJS](http://example.com/ "NodeJS").
+Stap 1:  [Download en installeer NodeJS](http://example.com/ "NodeJS").
 
 Stap 2: Open een nieuwe shell ( in windows als admin uitvoeren ) en dan de nodige packages installeren
 
