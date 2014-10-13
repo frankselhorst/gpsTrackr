@@ -7,10 +7,9 @@ Stap 1:  [Download en installeer NodeJS](http://example.com/ "NodeJS").
 
 Stap 2: Open een nieuwe shell ( in windows als admin uitvoeren ) en dan de nodige packages installeren
 
-    $ npm install -g bower
     $ npm install -g git
+    $ npm install -g bower
     $ npm install -g grunt
-    $ npm install -g yeoman
     $ npm install -g cordova
     $ npm install -g ionic
     
