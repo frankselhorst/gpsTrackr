@@ -35,7 +35,7 @@ angular.module('starter.controllers', ['starter.services'])
 
 		for(var i = 0; i < friends.length; i++) {
 
-			marker+=i new google.maps.Marker({
+			marker = new google.maps.Marker({
 				position: friends[i].coords,
 				map: map,
 				animation: google.maps.Animation.DROP,
